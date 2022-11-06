@@ -4,13 +4,13 @@
 
 #### The datasets contain the original ground truth data they came with, and these stayed unmodified.
 
-#### The datasets can be downloaded from Google Drive [here](https://drive.google.com/drive/folders/1s1RfJTeAesyTQdwOuOSdV3PrZ5r6gbKz?usp=sharing).
+## The datasets can be downloaded from Google Drive [here](https://drive.google.com/drive/folders/1s1RfJTeAesyTQdwOuOSdV3PrZ5r6gbKz?usp=sharing).
 
 #### The following are the HEVC features with their descriptions:
 
-![Table of HEVC features extracted](<img width="492" alt="HEVC-Features" src="https://user-images.githubusercontent.com/55744095/200184480-7c6436b6-2944-4891-8d4b-d4ecf5b0dfe6.png">)
+<img src="HEVC-Features.png" alt="HEVC Features extracted" width="450"/>
 
-### Upon using any of these datasets, please do cite our publication where we proposed the HEVC feature set for the first time:
+## Upon using any of these datasets, please do cite our publication where we proposed the HEVC feature set for the first time:
 ```
 O. Issa and T. Shanableh, "CNN and HEVC Video Coding Features for Static Video Summarization," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3188638.Online: https://ieeexplore.ieee.org/document/9815254
 ```
