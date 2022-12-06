@@ -36,7 +36,7 @@ PENDING
 }
 ```
 
-### SUMME:
+### SumMe:
 ```
 @inproceedings{GygliECCV14,
    author ={Gygli, Michael and Grabner, Helmut and Riemenschneider, Hayko and Van Gool, Luc},
@@ -49,16 +49,16 @@ PENDING
 ### OVP and VSUMM:
 ```
 @article{Avila,
-title = "VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method",
-journal = "Pattern Recognition Letters",
-volume = "32",
-number = "1",
-pages = "56 - 68",
-year = "2011",
-note = "<ce:title>Image Processing, Computer Vision and Pattern Recognition in Latin America</ce:title>",
-issn = "0167-8655",
-doi = "10.1016/j.patrec.2010.08.004",
-author = "Sandra Eliza Fontes de Avila and Ana Paula Brand„o Lopes and Antonio da Luz Jr. and Arnaldo de Albuquerque Ara˙jo",
+    title = "VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method",
+    journal = "Pattern Recognition Letters",
+    volume = "32",
+    number = "1",
+    pages = "56 - 68",
+    year = "2011",
+    note = "<ce:title>Image Processing, Computer Vision and Pattern Recognition in Latin America</ce:title>",
+    issn = "0167-8655",
+    doi = "10.1016/j.patrec.2010.08.004",
+    author = "Sandra Eliza Fontes de Avila and Ana Paula Brand„o Lopes and Antonio da Luz Jr. and Arnaldo de Albuquerque Ara˙jo",
 }
 ```
 
