@@ -1,6 +1,6 @@
 # **HEVC-SVS Datasets**
 
-#### Proposed HEVC feature sets along with CNN features from GoogleNet, AlexNet, Inception-ResNet-V2, and VGG16 for OVP and SUMME datasets. The new modified datasets names are "HEVC-SVS-OVP" and "HEVC-SVS-SUMME".
+#### Proposed HEVC feature sets along with CNN features from GoogleNet, AlexNet, Inception-ResNet-V2, and VGG16 for TVSum, SumMe, OVP and VSUMM datasets. The new modified datasets names are "HEVC-SVS-TVSum", "HEVC-SVS-SumMe", "HEVC-SVS-OVP" and "HEVC-SVS-VSUMM", respecively.
 
 #### The datasets contain the original ground truth data they came with, and these stayed unmodified.
 
@@ -11,12 +11,42 @@
 <img src="HEVC-Features.png" alt="HEVC Features extracted" width="450"/>
 
 ## Upon using any of these datasets, please do cite our publication where we proposed the HEVC feature set for the first time:
+
+### If you are using OVP and VSUMM dataets:
 ```
 O. Issa and T. Shanableh, "CNN and HEVC Video Coding Features for Static Video Summarization," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3188638.Online: https://ieeexplore.ieee.org/document/9815254
 ```
+### If you are using TVSum and SumMe dataets:
+```
+PENDING
+```
 ### Make sure to also cite the original authors for each of the datasets:
 
-### OVP:
+### TVSum:
+```
+@INPROCEEDINGS{7299154,
+  author = {Yale Song and Vallmitjana, Jordi and Stent, Amanda and Jaimes, Alejandro},
+  booktitle = {2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title = {TVSum: Summarizing web videos using titles}, 
+  year = {2015},
+  volume = {},
+  number = {},
+  pages = {5179-5187},
+  doi = {10.1109/CVPR.2015.7299154}
+}
+```
+
+### SUMME:
+```
+@inproceedings{GygliECCV14,
+   author ={Gygli, Michael and Grabner, Helmut and Riemenschneider, Hayko and Van Gool, Luc},
+   title = {Creating Summaries from User Videos},
+   booktitle = {ECCV},
+   year = {2014}
+}
+```
+
+### OVP and VSUMM:
 ```
 @article{Avila,
 title = "VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method",
@@ -32,12 +62,4 @@ author = "Sandra Eliza Fontes de Avila and Ana Paula Brand„o Lopes and Antonio
 }
 ```
 
-### SUMME:
-```
-@inproceedings{GygliECCV14,
-   author ={Gygli, Michael and Grabner, Helmut and Riemenschneider, Hayko and Van Gool, Luc},
-   title = {Creating Summaries from User Videos},
-   booktitle = {ECCV},
-   year = {2014}
-}
-```
+
