@@ -12,11 +12,11 @@
 
 ## Upon using any of these datasets, please do cite our publication where we proposed the HEVC feature set for the first time:
 
-### If you are using (HEVC-SVS-OVP) and/or (HEVC-SVS-VSUMM) dataets:
+### If you are using (HEVC-SVS-OVP) and/or (HEVC-SVS-VSUMM) datasets:
 ```
 O. Issa and T. Shanableh, "CNN and HEVC Video Coding Features for Static Video Summarization," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3188638.Online: https://ieeexplore.ieee.org/document/9815254
 ```
-### If you are using (HEVC-SVS-TVSum) and/or (HEVC-SVS-SumMe) dataets:
+### If you are using (HEVC-SVS-TVSum) and/or (HEVC-SVS-SumMe) datasets:
 ```
 PENDING
 ```
