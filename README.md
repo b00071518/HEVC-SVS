@@ -14,7 +14,20 @@
 
 ### If you are using (HEVC-SVS-OVP) and/or (HEVC-SVS-VSUMM) datasets:
 ```
-O. Issa and T. Shanableh, "CNN and HEVC Video Coding Features for Static Video Summarization," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3188638.Online: https://ieeexplore.ieee.org/document/9815254
+@article{issa_cnn_2022,
+	title = {{CNN} and {HEVC} {Video} {Coding} {Features} for {Static} {Video} {Summarization}},
+	volume = {10},
+	copyright = {Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC-BY-NC-ND)},
+	issn = {2169-3536},
+	url = {https://ieeexplore.ieee.org/document/9815254/},
+	doi = {10.1109/ACCESS.2022.3188638},
+	urldate = {2022-09-29},
+	journal = {IEEE Access},
+	author = {Issa, Obada and Shanableh, Tamer},
+	year = {2022},
+	pages = {72080--72091},
+}
+
 ```
 ### If you are using (HEVC-SVS-TVSum) and/or (HEVC-SVS-SumMe) datasets:
 ```
