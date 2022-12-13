@@ -76,8 +76,6 @@ PENDING
 ```
 
 ## Acknowledgement:
-### The work in this research project is supported by the American University of Sharjah under research grant number FRG22-E-
-E44. This research work represents the opinions of the author(s) and does not mean to represent the position or opinions of the
-American University of Sharjah. 
+### The work in this research project is supported by the American University of Sharjah under research grant number FRG22-E-E44. This research work represents the opinions of the author(s) and does not mean to represent the position or opinions of the American University of Sharjah. 
 
 
