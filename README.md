@@ -12,7 +12,7 @@
 
 ## Upon using any of these datasets, please do cite our publication where we proposed the HEVC feature set for the first time:
 
-### If you are using (HEVC-SVS-OVP) and/or (HEVC-SVS-VSUMM) datasets:
+### If you are using (HEVC-SVS-OVP) and/or (HEVC-SVS-VSUMM) datasets: [Link](https://ieeexplore.ieee.org/document/9815254/)
 ```
 @article{issa_cnn_2022,
 	title = {{CNN} and {HEVC} {Video} {Coding} {Features} for {Static} {Video} {Summarization}},
@@ -29,9 +29,23 @@
 }
 
 ```
-### If you are using (HEVC-SVS-TVSum) and/or (HEVC-SVS-SumMe) datasets:
+### If you are using (HEVC-SVS-TVSum) and/or (HEVC-SVS-SumMe) datasets: [Link](https://www.mdpi.com/2076-3417/13/10/6065)
 ```
-PENDING
+@article{issa_static_2023,
+	title = {Static {Video} {Summarization} {Using} {Video} {Coding} {Features} with {Frame}-{Level} {Temporal} {Subsampling} and {Deep} {Learning}},
+	volume = {13},
+	copyright = {All rights reserved},
+	issn = {2076-3417},
+	url = {https://www.mdpi.com/2076-3417/13/10/6065},
+	doi = {10.3390/app13106065},
+	number = {10},
+	journal = {Applied Sciences},
+	author = {Issa, Obada and Shanableh, Tamer},
+	month = may,
+	year = {2023},
+	pages = {6065},
+}
+
 ```
 ### Make sure to also cite the original authors for each of the datasets:
 
