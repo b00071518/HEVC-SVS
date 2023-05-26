@@ -35,7 +35,7 @@ PENDING
 ```
 ### Make sure to also cite the original authors for each of the datasets:
 
-### TVSum:
+### [TVSum](https://people.csail.mit.edu/yalesong/tvsum/):
 ```
 @INPROCEEDINGS{7299154,
   author = {Yale Song and Vallmitjana, Jordi and Stent, Amanda and Jaimes, Alejandro},
@@ -49,7 +49,7 @@ PENDING
 }
 ```
 
-### SumMe:
+### [SumMe](https://gyglim.github.io/me/vsum/index.html):
 ```
 @inproceedings{GygliECCV14,
    author ={Gygli, Michael and Grabner, Helmut and Riemenschneider, Hayko and Van Gool, Luc},
@@ -59,7 +59,7 @@ PENDING
 }
 ```
 
-### OVP and VSUMM:
+### [OVP and VSUMM](https://www.sites.google.com/site/vsummsite/home):
 ```
 @article{Avila,
     title = "VSUMM: A mechanism designed to produce static video summaries and a novel evaluation method",
